@@ -25,8 +25,6 @@ The aim of the E-commerce Sales Dashboard project was to provide a comprehensive
 # Power BI Dashboard
 This is an interactive Power BI Dashboard , you can interact with this dashboard from https://www.novypro.com/project/ecommerce-sales-dashboard-power-bi-1
 
-![image](https://github.com/j
-aseel342/Ecommerce_Sales_Dashboard/assets/135998004/9ecca50d-aa0d-4169-8b8d-f3ee085414fb)
 
 # Summary
 In this project, we focused on four key performance indicators: YTD Sales, YTD Profit, YTD Profit Margin, and Quantity of Products sold. We conducted a thorough analysis of sales data across different categories, including product categories, states, and regions, to gain a comprehensive understanding of performance and distribution patterns. To convey these insights effectively, we harnessed the power of interactive dashboards, charts, and visualizations. The ultimate goal was to utilize the valuable insights from this project to make informed business decisions, drive growth, and optimize operational strategies for the benefit of the Ecommerce Sales Company.
