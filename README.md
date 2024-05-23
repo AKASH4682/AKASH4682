@@ -22,8 +22,7 @@ The aim of the E-commerce Sales Dashboard project was to provide a comprehensive
 * Add Customer segment as Slicer and add some informative KPI
 * Add Card chart, Area chart, Donut chart, Matrix chart, Bar chart, Map etc
 
-# Power BI Dashboard
-This is an interactive Power BI Dashboard , you can interact with this dashboard from https://www.novypro.com/project/ecommerce-sales-dashboard-power-bi-1
+
 
 
 # Summary
